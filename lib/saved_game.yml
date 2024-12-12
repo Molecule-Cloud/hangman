@@ -1,0 +1,21 @@
+--- !ruby/object:Game
+player: !ruby/object:Player
+  name:
+  guessed_letters: []
+  incorrect_guesses:
+  - "y"
+  - u
+  - f
+  - g
+  - b
+  - h
+  - p
+  - e
+attempts: 1
+word: !ruby/object:Word
+  word: class
+  guessed_letters:
+  - ''
+  - s
+  - c
+  - l
